@@ -1,0 +1,21 @@
+
+#loading_data{
+	position:fixed;
+	z-index:9999;
+	border:0px solid #999;
+	background:rgba(22,160,133,0.7);
+	width:180px;
+	height:50px;
+	margin-top:-80px;
+	margin-left:-150px;
+	top:70%;
+	left:55%;
+	text-align:center;
+	line-height:50px;
+	font-family:"Trebuchet MS", verdana, arial,tahoma;
+	font-size:12pt;
+	color:#FFF;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	}
